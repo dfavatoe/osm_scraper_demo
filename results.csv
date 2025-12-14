@@ -1,0 +1,11 @@
+osm_id,name,street,housenumber,postcode,city,email,phone,website,lat,lon,date_scraped
+node/658617876,Pee Pees Katzencafé,Thomasstraße,53,12053,Berlin,,+49 30 68086600,,52.4723377,13.433447,2025-12-11T22:42:02Z
+node/1307115261,Fincan,Altenbraker Straße,26,12051,Berlin,info@fincan.eu,,https://www.fincan.eu/,52.4692685,13.4324824,2025-12-11T22:42:02Z
+node/1307115302,Café Canisi,Schierker Straße,23,12051,,,,,52.4701508,13.4315508,2025-12-11T22:42:02Z
+node/1348552210,Horon Cafe,Emser Straße,,12051,Berlin,,,,52.468253,13.4297907,2025-12-11T22:42:02Z
+node/1348552229,Café Günseli,Emser Straße,,12051,Berlin,,,,52.4681435,13.4287583,2025-12-11T22:42:02Z
+node/1557125533,leuchtstoff – Kaffeebar,Siegfriedstraße,19,12051,Berlin,,,https://leuchtstoff.berlin,52.4681276,13.4325447,2025-12-11T22:42:02Z
+node/2245080198,Fior di Mocca,,,,,,,,52.4673434,13.4318209,2025-12-11T22:42:02Z
+node/3350472097,Roasters,,,,,,,,52.4713953,13.4294188,2025-12-11T22:42:02Z
+node/4409599067,BONA,Hermannstraße,178,12051,Berlin,bonakollektiv@gmail.com,,,52.4716914,13.4292751,2025-12-11T22:42:02Z
+node/4471345153,Roasters,Hermannstraße,176,12051,Berlin,,,,52.4714251,13.429405,2025-12-11T22:42:02Z
